@@ -23,7 +23,7 @@
     </style>
 </head>
 <body>
-    <h1>This is Api for <a href="">nick app</a>. Just for exercise</h1>
+    <h1>This is Api for <a href="https://github.com/matinsoleymni/Nick-App-Vue3">nick app</a>. Just for exercise</h1>
     <p>Matin Soleymani</p>
 </body>
 </html>
